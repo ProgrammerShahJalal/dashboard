@@ -2,4 +2,5 @@
 
 ## Live site link: https://awesomee-dashboard.netlify.app/
 
-https://user-images.githubusercontent.com/79104097/141728274-4c67abfe-e7c6-4734-9a29-7cd63ed88114.mp4
+![dashboard-overview](https://user-images.githubusercontent.com/79104097/143466992-4e1e4e1a-1669-49fa-a4ab-4194bcbb63f6.png)
+
